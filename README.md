@@ -3,7 +3,7 @@ Projeto final do curso BI Master (Turma 23.1).
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 # Nome do projeto
 
-#### Aluno: Fabio Nunes Leal Faria (https://github.com/fabiofaria-git/BIMaster-Proj)
+#### Aluno: [Fabio Nunes Leal Faria](https://github.com/fabiofaria-git/BIMaster-Proj).
 #### Orientador: [Nome Sobrenome](https://github.com/link_do_github).
 
 ---
